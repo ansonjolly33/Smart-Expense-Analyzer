@@ -58,7 +58,7 @@ I noticed that many students (including myself at times) struggle to stay consis
 I also focused on keeping components reusable and the structure clean so it’s easier to scale later.
 
 ---
-## 📸 Feature Showcase
+## 📸 Product Demo
 
 
 ### 💸 Transactions  
